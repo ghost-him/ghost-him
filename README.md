@@ -16,18 +16,6 @@
 
 ---
 
-我的英语只能支持我看懂英语, 但是没法写出完全正确的句子, 所以我用了[deepl](https://www.deepl.com/translator)来帮我翻译
-
-这个翻译太绝了,这边建议所有看到这句话的人立刻马上就去体验!!!!
-
-My English only allows me to read English, but I can't write sentences exactly right, so I use [deepl](https://www.deepl.com/translator) to translate for me
-
-This translation is so good that I suggest anyone who reads this to experience it immediately 😝😝😝😝!!!! 
-
----
-
-
-
 # Hello there!
 
 I am a junior student still struggling.
@@ -45,3 +33,5 @@ I'm learning c++ and linux.
 That's about it...
 
 > Translated with www.DeepL.com/Translator (free version)
+
+![头像](https://s1.328888.xyz/2022/10/14/8742n.jpg)
