@@ -1,3 +1,9 @@
+个人网站：http://www.ghost-him.com
+个人介绍：http://www.ghost-him.com/about/
+
+以下过期
+***
+
 # 你们好!
 
 我是一名还在挣扎的大四学生.
