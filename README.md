@@ -8,6 +8,14 @@
   <a href="https://ghost-him.netlify.app/">
     <img src="https://img.shields.io/badge/Blog-%F0%9F%9A%80-brightgreen?style=flat-square" alt="Blog Link"/>
   </a>
+  &nbsp;
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  </a>
+  &nbsp;
+  <a href="https://www.rust-lang.org/">
+    <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E5732F" alt="Rust"/>
+  </a>
 </p>
 
 ---
@@ -18,15 +26,6 @@
 *   🔬 我的研究方向是 **时空序列预测 (Spatiotemporal Series Prediction)**。
 *   💻 热衷于编码，并会持续在 GitHub 上分享我的项目和学习成果。
 *   ✍️ 我会在我的 [**个人博客**](https://ghost-him.netlify.app/) 上记录和分享最新的学习笔记与心得，欢迎访问！
-
----
-
-## 🛠️ 技术栈 & 技能
-
-*   **主要语言:**
-    [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-*   **探索中:**
-    [![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E5732F)](https://www.rust-lang.org/)
 
 ---
 
