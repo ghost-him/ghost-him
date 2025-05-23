@@ -25,7 +25,8 @@
 *   🎓 目前是一名在读研究生。
 *   🔬 我的研究方向是 **时空序列预测 (Spatiotemporal Series Prediction)**。
 *   💻 热衷于编码，并会持续在 GitHub 上分享我的项目和学习成果。
-*   ✍️ 我会在我的 [**个人博客**](https://ghost-him.netlify.app/) 上记录和分享最新的学习笔记与心得，欢迎访问！
+*   ✍️ 我会在我的 [**个人博客**](https://www.ghost-him.com/) 上记录和分享最新的学习笔记与心得，欢迎访问！
+*   🕒 **更新频率:** 平时忙于学业，所以基本上是会在周末（周六与周日）更新。
 
 ---
 
@@ -56,7 +57,7 @@
 ## 📫 如何联系我
 
 *   **GitHub:** 你已经在这里了！😊
-*   **博客:** [https://ghost-him.netlify.app/](https://ghost-him.netlify.app/)
+*   **博客:** [https://www.ghost-him.com/](https://www.ghost-him.com/)
 *   **邮箱:** [ghost_him@126.com](mailto:ghost_him@126.com)  
 
 ---
