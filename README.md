@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=ghost-him&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views"/>
   </a>
   &nbsp;
-  <a href="https://ghost-him.netlify.app/">
+  <a href="https://www.ghost-him.com/">
     <img src="https://img.shields.io/badge/Blog-%F0%9F%9A%80-brightgreen?style=flat-square" alt="Blog Link"/>
   </a>
   &nbsp;
@@ -15,6 +15,14 @@
   &nbsp;
   <a href="https://www.rust-lang.org/">
     <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E5732F" alt="Rust"/>
+  </a>
+  &nbsp;
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  &nbsp;
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
   </a>
 </p>
 
