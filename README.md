@@ -31,11 +31,37 @@
 ## 👨‍💻 关于我
 
 *   🎓 目前是一名在读研究生。
-*   🔬 我的研究方向是 **时空序列预测 (Spatiotemporal Series Prediction)**。
+*   🔬 我的研究方向是人工智能海洋学，遥感图像处理与分析。
 *   💻 热衷于编码，并会持续在 GitHub 上分享我的项目和学习成果。
 *   ✍️ 我会在我的 [**个人博客**](https://www.ghost-him.com/) 上记录和分享最新的学习笔记与心得，欢迎访问！
 *   🌱 **全新项目正在紧张企划中，敬请期待！**
 *   🕒 **更新频率:** 每周末更新，或者是有空闲时间时更新(●'◡'●)
+
+---
+
+## 🛠️ 我的工具集
+
+<p align="center">
+  <a href="https://typora.io/">
+    <img src="https://img.shields.io/badge/Typora-2A2A2A?style=flat-square&logo=typora&logoColor=white" alt="Typora"/>
+  </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+  </a>
+  &nbsp;
+  <a href="https://music.163.com/">
+    <img src="https://img.shields.io/badge/网易云音乐-D43C33?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="NetEase Cloud Music"/>
+  </a>
+  &nbsp;
+  <a href="https://www.claude.ai/">
+    <img src="https://img.shields.io/badge/Claude_4-D97A53?style=flat-square&logo=anthropic&logoColor=white" alt="Claude 4"/>
+  </a>
+  &nbsp;
+  <a href="https://gemini.google.com/">
+    <img src="https://img.shields.io/badge/Gemini_2.5_Pro-8E77F0?style=flat-square&logo=googlebard&logoColor=white" alt="Gemini 2.5 Pro"/>
+  </a>
+</p>
 
 ---
 
@@ -46,7 +72,6 @@
 *   🚀 **[ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs)**
     *   极速精准、轻量纯粹的 Windows 应用程序启动器！拼音模糊匹配 + 急速响应，基于 Rust + Tauri + Vue.js 构建！
     *   🙏 如果你觉得这个项目不错或者对你有帮助，请不吝给一个 ⭐ Star 支持一下！
-    *   💡 欢迎提出 Issue 或 Pull Request，我会尽快跟进和改进。
 
 ---
 
