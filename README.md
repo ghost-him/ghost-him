@@ -92,6 +92,7 @@
 
 *   **GitHub:** 你已经在这里了！😊
 *   **博客:** [https://www.ghost-him.com/](https://www.ghost-him.com/)
-*   **邮箱:** [ghost_him@126.com](mailto:ghost_him@126.com)  
+*   **邮箱:** [ghost_him@126.com](mailto:ghost_him@126.com)
+*   **赞助:** [在爱发电支持我](https://afdian.com/a/ghost-him) ⚡
 
 ---
