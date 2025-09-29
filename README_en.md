@@ -10,49 +10,49 @@
 
 <p align="center">
   <a href="https://github.com/ghost-him">
-    <img src="https://komarev.com/ghpvc/?username=ghost-him&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=ghost-him&label=Profile%20views&color=007EC6&style=for-the-badge" alt="profile views"/>
   </a>
   &nbsp;
   <a href="https://www.ghost-him.com/">
-    <img src="https://img.shields.io/badge/Blog-%F0%9F%9A%80-brightgreen?style=flat-square" alt="Blog Link"/>
+    <img src="https://img.shields.io/badge/Blog-E91E63?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Link"/>
   </a>
   &nbsp;
   <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   </a>
   &nbsp;
   <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E5732F" alt="Rust"/>
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=#E5732F" alt="Rust"/>
   </a>
   &nbsp;
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
   &nbsp;
   <a href="https://pytorch.org/">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://typora.io/">
-    <img src="https://img.shields.io/badge/Typora-2A2A2A?style=flat-square&logo=typora&logoColor=white" alt="Typora"/>
+    <img src="https://img.shields.io/badge/Typora-2A2A2A?style=for-the-badge&logo=typora&logoColor=white" alt="Typora"/>
   </a>
   &nbsp;
   <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
   </a>
   &nbsp;
   <a href="https://music.163.com/">
-    <img src="https://img.shields.io/badge/NetEase_Cloud_Music-D43C33?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="NetEase Cloud Music"/>
+    <img src="https://img.shields.io/badge/NetEase_Cloud_Music-D43C33?style=for-the-badge&logo=neteasecloudmusic&logoColor=white" alt="NetEase Cloud Music"/>
   </a>
   &nbsp;
   <a href="https://www.claude.ai/">
-    <img src="https://img.shields.io/badge/Claude_4-D97A53?style=flat-square&logo=anthropic&logoColor=white" alt="Claude 4"/>
+    <img src="https://img.shields.io/badge/Claude-D97A53?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
   </a>
   &nbsp;
   <a href="https://gemini.google.com/">
-    <img src="https://img.shields.io/badge/Gemini_2.5_Pro-8E77F0?style=flat-square&logo=googlebard&logoColor=white" alt="Gemini 2.5 Pro"/>
+    <img src="https://img.shields.io/badge/Gemini-8E77F0?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini"/>
   </a>
 </p>
 
