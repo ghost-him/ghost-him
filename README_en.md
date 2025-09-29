@@ -1,8 +1,8 @@
 <p align="right">
-  <b>简体中文</b> | <a href="./README_en.md">English</a>
+  <a href="./README.md">简体中文</a> | <b>English</b>
 </p>
 
-# 👋 你好，我是 @ghost_him!
+# 👋 Hi, I'm @ghost_him!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20ghost_him!&fontSize=70&fontAlignY=35" alt="Header"/>
@@ -44,7 +44,7 @@
   </a>
   &nbsp;
   <a href="https://music.163.com/">
-    <img src="https://img.shields.io/badge/网易云音乐-D43C33?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="NetEase Cloud Music"/>
+    <img src="https://img.shields.io/badge/NetEase_Cloud_Music-D43C33?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="NetEase Cloud Music"/>
   </a>
   &nbsp;
   <a href="https://www.claude.ai/">
@@ -58,28 +58,28 @@
 
 ---
 
-## 👨‍💻 关于我
+## 👨‍💻 About Me
 
-*   🎓 目前是一名在读研究生。
-*   🔬 我的研究方向是人工智能海洋学，遥感图像处理与分析。
-*   💻 热衷于编码，并会持续在 GitHub 上分享我的项目和学习成果。
-*   ✍️ 我会在我的 [**个人博客**](https://www.ghost-him.com/) 上记录和分享最新的学习笔记与心得，欢迎访问！
-*   🌱 **全新项目正在紧张企划中，敬请期待！**
-*   🕒 **更新频率:** 每周末更新，或者是有空闲时间时更新(●'◡'●)
-
----
-
-## ✨ 重点项目
-
-我目前正在积极维护以下项目：
-
-*   🚀 **[ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs)**：极速精准、轻量纯粹的 Windows 应用程序启动器！拼音模糊匹配 + 急速响应，基于 Rust + Tauri + Vue.js 构建！
+*   🎓 I am currently a graduate student.
+*   🔬 My research focuses on AI in oceanography, remote sensing image processing, and analysis.
+*   💻 I am passionate about coding and will continue to share my projects and learning progress on GitHub.
+*   ✍️ I document and share my latest study notes and insights on my [**personal blog**](https://www.ghost-him.com/). Welcome to visit!
+*   🌱 **A brand new project is in the works, stay tuned!**
+*   🕒 **Update Frequency:** I update every weekend, or whenever I have free time (●'◡'●)
 
 ---
 
-## 💖 支持我
+## ✨ Featured Project
 
-如果你觉得我的项目对你有帮助，或者想支持我的创作，欢迎通过以下方式赞助我！你的支持是我持续创作和分享的巨大动力！
+I am currently actively maintaining the following project:
+
+*   🚀 **[ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs)**: An extremely fast, accurate, lightweight, and pure Windows application launcher! Features fuzzy Pinyin matching + rapid response, built with Rust + Tauri + Vue.js!
+
+---
+
+## 💖 Support Me
+
+If you find my projects helpful or want to support my work, feel free to sponsor me through the following channels! Your support is a huge motivation for me to continue creating and sharing.
 
 <p align="left">
   <a href="https://www.patreon.com/cw/ghost_him" target="_blank">
@@ -87,29 +87,19 @@
   </a>
   &nbsp;
   <a href="https://afdian.com/a/ghost-him" target="_blank">
-    <img src="https://img.shields.io/badge/爱发电-946CE6?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="爱发电"/>
+    <img src="https://img.shields.io/badge/Afdian-946CE6?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Afdian"/>
   </a>
 </p>
 
 ---
 
-## 📊 我的 GitHub 统计数据
+## 📊 My GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost-him&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-him&layout=compact&exclude_repo=blog&theme=radical" alt="Top Langs"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-him&layout=compact&theme=radical" alt="Top Langs"/>
   </a>
 </p>
-
----
-
-## 📫 如何联系我
-
-*   **GitHub:** 你已经在这里了！😊
-*   **博客:** [https://www.ghost-him.com/](https://www.ghost-him.com/)
-*   **邮箱:** [ghost_him@126.com](mailto:ghost_him@126.com)
-
----
