@@ -62,7 +62,6 @@
 
 *   🎓 I am currently a graduate student.
 *   🔬 My research focuses on AI in oceanography, remote sensing image processing, and analysis.
-*   💻 I am passionate about coding and will continue to share my projects and learning progress on GitHub.
 *   ✍️ I document and share my latest study notes and insights on my [**personal blog**](https://www.ghost-him.com/). Welcome to visit!
 *   🌱 **A brand new project is in the works, stay tuned!**
 *   🕒 **Update Frequency:** I update every weekend, or whenever I have free time (●'◡'●)
@@ -74,6 +73,20 @@
 I am currently actively maintaining the following project:
 
 *   🚀 **[ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs)**: An extremely fast, accurate, lightweight, and pure Windows application launcher! Features fuzzy Pinyin matching + rapid response, built with Rust + Tauri + Vue.js!
+
+---
+
+## 💻 Setup & Environment
+
+| Item | Spec |
+| :-- | :-- |
+| 🪟 OS | Microsoft Windows 11 Pro 64-bit |
+| 🧠 CPU | AMD Ryzen 5 7500F |
+| 🧬 Memory | 32 GB |
+| 🎮 GPU | AMD Radeon RX 7800 XT |
+| 💾 Storage | Fanxiang S790 1TB SSD |
+| 🎧 Audio | hd490pro + udp3ii |
+
 
 ---
 
@@ -103,3 +116,13 @@ If you find my projects helpful or want to support my work, feel free to sponsor
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-him&layout=compact&theme=radical" alt="Top Langs"/>
   </a>
 </p>
+
+---
+
+## 📫 How to reach me
+
+*   **GitHub:** You're already here! 😊
+*   **Blog:** https://www.ghost-him.com/
+*   **Email:** [ghost_him@126.com](mailto:ghost_him@126.com)
+
+---
