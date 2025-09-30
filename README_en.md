@@ -113,7 +113,7 @@ If you find my projects helpful or want to support my work, feel free to sponsor
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-him&layout=compact&theme=radical" alt="Top Langs"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-him&layout=compact&exclude_repo=blog,ZeroLaunch-website&theme=radical" alt="Top Langs"/>
   </a>
 </p>
 
