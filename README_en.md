@@ -78,6 +78,7 @@ I am currently actively maintaining the following project:
 
 ## 💻 Setup & Environment
 
+
 | Item | Spec |
 | :-- | :-- |
 | 🪟 OS | Microsoft Windows 11 Pro 64-bit |
@@ -86,7 +87,6 @@ I am currently actively maintaining the following project:
 | 🎮 GPU | AMD Radeon RX 7800 XT |
 | 💾 Storage | Fanxiang S790 1TB SSD |
 | 🎧 Audio | hd490pro + udp3ii |
-
 
 ---
 
@@ -109,11 +109,11 @@ If you find my projects helpful or want to support my work, feel free to sponsor
 ## 📊 My GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost-him&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
+    <img align="center" src="https://github-readme-stats-seven-xi-93.vercel.app/api?username=ghost-him&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-him&layout=compact&exclude_repo=blog,ZeroLaunch-website&theme=radical" alt="Top Langs"/>
+    <img align="center" src="https://github-readme-stats-seven-xi-93.vercel.app/api/top-langs/?username=ghost-him&layout=compact&exclude_repo=blog,ZeroLaunch-website&theme=radical" alt="Top Langs"/>
   </a>
 </p>
 
@@ -122,7 +122,7 @@ If you find my projects helpful or want to support my work, feel free to sponsor
 ## 📫 How to reach me
 
 *   **GitHub:** You're already here! 😊
-*   **Blog:** https://www.ghost-him.com/
+*   **Blog:** [https://www.ghost-him.com/](https://www.ghost-him.com/)
 *   **Email:** [ghost_him@126.com](mailto:ghost_him@126.com)
 
 ---
