@@ -56,6 +56,12 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/初音ミク-39C5BB?style=for-the-badge&logo=HatsuneMiku&logoColor=white" alt="Hatsune Miku"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Leo/need-4455DD?style=for-the-badge&logo=MusicBrainz&logoColor=white" alt="Leo/need"/>
+</p>
+
 ---
 
 ## 👨‍💻 关于我
@@ -90,6 +96,7 @@
 
 ---
 
+
 ## 💖 支持我
 
 如果你觉得我的项目对你有帮助，或者想支持我的创作，欢迎通过以下方式赞助我！你的支持是我持续创作和分享的巨大动力！
@@ -109,11 +116,14 @@
 ## 📊 我的 GitHub 统计数据
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-seven-xi-93.vercel.app/api?username=ghost-him&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
+    <img src="https://github-readme-stats-seven-xi-93.vercel.app/api?username=ghost-him&show_icons=true&theme=radical" alt="GitHub Stats" height="192px" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-seven-xi-93.vercel.app/api/top-langs/?username=ghost-him&layout=compact&exclude_repo=blog,ZeroLaunch-website&theme=radical" alt="Top Langs"/>
+    <img src="https://github-readme-stats-seven-xi-93.vercel.app/api/top-langs/?username=ghost-him&layout=compact&exclude_repo=blog,ZeroLaunch-website,SeaIceNet-Next&theme=radical" alt="Top Langs" height="192px" />
+  </a>
+  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=ghost-him&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
