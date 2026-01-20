@@ -69,7 +69,6 @@
 *   🎓 目前是一名在读研究生。
 *   🔬 我的研究方向是人工智能海洋学，遥感图像处理与分析。
 *   ✍️ 我会在我的 [**个人博客**](https://www.ghost-him.com/) 上记录和分享最新的学习笔记与心得，欢迎访问！
-*   🌱 **全新项目正在紧张企划中，敬请期待！**
 *   🕒 **更新频率:** 每周末更新，或者是有空闲时间时更新(●'◡'●)
 
 ---
@@ -79,20 +78,21 @@
 我目前正在积极维护以下项目：
 
 *   🚀 **[ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs)**：极速精准、轻量纯粹的 Windows 应用程序启动器！拼音模糊匹配 + 急速响应，基于 Rust + Tauri + Vue.js 构建！
+*   ✨ **[KawaiiSR](https://github.com/ghost-him/KawaiiSR)**：一款专注于动漫/二次元的现代化 AI 超分辨率工具！使用改进的 CVPR 2023 HAT 算法，让画质超清晰、超可爱！
 
 ---
 
 ## 💻 设备与环境
 
 
-| 项目 | 配置 |
-| :-- | :-- |
+| 项目       | 配置                              |
+| :--------- | :-------------------------------- |
 | 🪟 操作系统 | Microsoft Windows 11 专业版 64 位 |
-| 🧠 处理器 | AMD Ryzen 5 7500F |
-| 🧬 内存 | 32 GB |
-| 🎮 显卡 | AMD Radeon RX 7800 XT |
-| 💾 存储 | Fanxiang S790 1TB SSD |
-| 🎧 音频 | hd490pro + udp3ii |
+| 🧠 处理器   | AMD Ryzen 5 7500F                 |
+| 🧬 内存     | 32 GB                             |
+| 🎮 显卡     | AMD Radeon RX 7800 XT             |
+| 💾 存储     | Fanxiang S790 1TB SSD             |
+| 🎧 音频     | hd490pro + udp3ii                 |
 
 ---
 

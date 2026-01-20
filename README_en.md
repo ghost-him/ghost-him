@@ -69,30 +69,31 @@
 *   🎓 I am currently a graduate student.
 *   🔬 My research focuses on AI in oceanography, remote sensing image processing, and analysis.
 *   ✍️ I document and share my latest study notes and insights on my [**personal blog**](https://www.ghost-him.com/). Welcome to visit!
-*   🌱 **A brand new project is in the works, stay tuned!**
 *   🕒 **Update Frequency:** I update every weekend, or whenever I have free time (●'◡'●)
 
 ---
 
 ## ✨ Featured Project
 
-I am currently actively maintaining the following project:
+I am currently actively maintaining the following projects:
 
 *   🚀 **[ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs)**: An extremely fast, accurate, lightweight, and pure Windows application launcher! Features fuzzy Pinyin matching + rapid response, built with Rust + Tauri + Vue.js!
+*   ✨ **[KawaiiSR](https://github.com/ghost-him/KawaiiSR)**: A modern AI super-resolution tool focused on anime/manga! Using an improved CVPR 2023 HAT algorithm to make images super clear and super cute!
+
 
 ---
 
 ## 💻 Setup & Environment
 
 
-| Item | Spec |
-| :-- | :-- |
-| 🪟 OS | Microsoft Windows 11 Pro 64-bit |
-| 🧠 CPU | AMD Ryzen 5 7500F |
-| 🧬 Memory | 32 GB |
-| 🎮 GPU | AMD Radeon RX 7800 XT |
-| 💾 Storage | Fanxiang S790 1TB SSD |
-| 🎧 Audio | hd490pro + udp3ii |
+| Item      | Spec                            |
+| :-------- | :------------------------------ |
+| 🪟 OS      | Microsoft Windows 11 Pro 64-bit |
+| 🧠 CPU     | AMD Ryzen 5 7500F               |
+| 🧬 Memory  | 32 GB                           |
+| 🎮 GPU     | AMD Radeon RX 7800 XT           |
+| 💾 Storage | Fanxiang S790 1TB SSD           |
+| 🎧 Audio   | hd490pro + udp3ii               |
 
 ---
 
