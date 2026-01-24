@@ -69,7 +69,9 @@
 
 ## 📝 最新文章
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - 2026-01-22: [6.5840 2025 Spring Lab2 [Study]](https://ghost-him.github.io/Study/2026-01-22-6.5840-lab2/)
+ - 2026-01-21: [6.5840 2025 Spring Lab1 [Study]](https://ghost-him.github.io/Study/2026-01-21-6.5840-lab1/)
+ - 2026-01-20: [training bug record [Blog]](https://ghost-him.github.io/Blog/2026-01-20-training-bug/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
