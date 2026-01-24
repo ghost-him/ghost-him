@@ -56,12 +56,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hatsune_Miku-39C5BB?style=for-the-badge&logo=HatsuneMiku&logoColor=white" alt="Hatsune Miku"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Leo/need-4455DD?style=for-the-badge&logo=MusicBrainz&logoColor=white" alt="Leo/need"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -70,6 +64,12 @@
 *   🔬 My research focuses on AI in oceanography, remote sensing image processing, and analysis.
 *   ✍️ I document and share my latest study notes and insights on my [**personal blog**](https://www.ghost-him.com/). Welcome to visit!
 *   🕒 **Update Frequency:** I update every weekend, or whenever I have free time (●'◡'●)
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

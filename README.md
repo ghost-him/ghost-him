@@ -56,12 +56,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/初音ミク-39C5BB?style=for-the-badge&logo=HatsuneMiku&logoColor=white" alt="Hatsune Miku"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Leo/need-4455DD?style=for-the-badge&logo=MusicBrainz&logoColor=white" alt="Leo/need"/>
-</p>
-
 ---
 
 ## 👨‍💻 关于我
@@ -70,6 +64,12 @@
 *   🔬 我的研究方向是人工智能海洋学，遥感图像处理与分析。
 *   ✍️ 我会在我的 [**个人博客**](https://www.ghost-him.com/) 上记录和分享最新的学习笔记与心得，欢迎访问！
 *   🕒 **更新频率:** 每周末更新，或者是有空闲时间时更新(●'◡'●)
+
+---
+
+## 📝 最新文章
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
