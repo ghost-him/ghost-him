@@ -69,10 +69,11 @@
 
 ## 📝 最新文章
 <!-- BLOG-POST-LIST:START -->
- - 2026-01-23: [记录一下 6.5840 2025 Spring Lab3 的过程 [Study]](https://ghost-him.github.io/Study/2026-01-23-6.5840-lab3/)
- - 2026-01-22: [记录一下 6.5840 2025 Spring Lab2 的过程 [Study]](https://ghost-him.github.io/Study/2026-01-22-6.5840-lab2/)
- - 2026-01-21: [记录一下 6.5840 2025 Spring Lab1 的过程 [Study]](https://ghost-him.github.io/Study/2026-01-21-6.5840-lab1/)
- - 2026-01-20: [单 epoch 训练时间逐渐变长的 bug 记录 [Blog]](https://ghost-him.github.io/Blog/2026-01-20-training-bug/)<!-- BLOG-POST-LIST:END -->
+ - 2026-02-05: [记录一下 6.5840 2025 Spring Lab4 的过程](https://ghost-him.github.io/Study/2026-02-05-6.5840-lab4/)
+ - 2026-01-23: [记录一下 6.5840 2025 Spring Lab3 的过程](https://ghost-him.github.io/Study/2026-01-23-6.5840-lab3/)
+ - 2026-01-22: [记录一下 6.5840 2025 Spring Lab2 的过程](https://ghost-him.github.io/Study/2026-01-22-6.5840-lab2/)
+ - 2026-01-21: [记录一下 6.5840 2025 Spring Lab1 的过程](https://ghost-him.github.io/Study/2026-01-21-6.5840-lab1/)
+ - 2026-01-20: [单 epoch 训练时间逐渐变长的 bug 记录](https://ghost-him.github.io/Blog/2026-01-20-training-bug/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
