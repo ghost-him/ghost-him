@@ -69,11 +69,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+ - 2026-03-09: [找实习](https://ghost-him.github.io/Thoughts/2026-03-09-seeking-internships/)
  - 2026-02-17: [C++ 八股文查漏补缺](https://ghost-him.github.io/Study/2026-02-17-c++notes/)
  - 2026-02-15: [2025 年终总结](https://ghost-him.github.io/Blog/2026-02-15-2025-recap/)
  - 2026-02-13: [聊天](https://ghost-him.github.io/Thoughts/2026-02-13-chat/)
- - 2026-02-10: [记录一下 6.5840 2025 Spring Lab5 的过程](https://ghost-him.github.io/Study/2026-02-10-6.5840-lab5/)
- - 2026-02-05: [记录一下 6.5840 2025 Spring Lab4 的过程](https://ghost-him.github.io/Study/2026-02-05-6.5840-lab4/)<!-- BLOG-POST-LIST:END -->
+ - 2026-02-10: [记录一下 6.5840 2025 Spring Lab5 的过程](https://ghost-him.github.io/Study/2026-02-10-6.5840-lab5/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
