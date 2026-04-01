@@ -120,10 +120,10 @@
 ## 📊 我的 GitHub 统计数据
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-seven-xi-93.vercel.app/api?username=ghost-him&show_icons=true&theme=radical" alt="GitHub Stats" height="192px" />
+    <img src="https://github-stats-extended.vercel.app/api?username=ghost-him&show_icons=true&theme=radical" alt="GitHub Stats" height="192px" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-seven-xi-93.vercel.app/api/top-langs/?username=ghost-him&layout=compact&exclude_repo=blog,ZeroLaunch-website,SeaIceNet-Next&theme=radical" alt="Top Langs" height="192px" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ghost-him&layout=compact&exclude_repo=blog,ZeroLaunch-website,SeaIceNet-Next,6.5840-Lab&theme=radical" alt="Top Langs" height="192px" />
   </a>
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
