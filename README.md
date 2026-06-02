@@ -96,7 +96,7 @@
 | 🧬 内存     | 32 GB                             |
 | 🎮 显卡     | AMD Radeon RX 7800 XT             |
 | 💾 存储     | Fanxiang S790 1TB SSD             |
-| 🎧 音频     | hd490pro + udp3ii                 |
+| 🎧 音频     | 虹曙 eh1v4 + eha-1 + udp3ii       |
 
 ---
 
