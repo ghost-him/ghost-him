@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ghost-him">
-    <img src="https://komarev.com/ghpvc/?username=ghost-him&label=Profile%20views&color=007EC6&style=for-the-badge" alt="profile views"/>
-  </a>
-  &nbsp;
   <a href="https://www.ghost-him.com/">
     <img src="https://img.shields.io/badge/Blog-E91E63?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Link"/>
   </a>
@@ -31,6 +27,10 @@
   &nbsp;
   <a href="https://pytorch.org/">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  </a>
+  &nbsp;
+  <a href="https://go.dev/">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   </a>
 </p>
 
@@ -118,6 +118,10 @@ If you find my projects helpful or want to support my work, feel free to sponsor
 ---
 
 ## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@ghost-him.ghost-him?theme=miku" alt="Moe Counter" />
+</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
