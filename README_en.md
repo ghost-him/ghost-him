@@ -127,7 +127,7 @@ If you find my projects helpful or want to support my work, feel free to sponsor
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-stats-extended.vercel.app/api?username=ghost-him&show_icons=true&theme=radical" alt="GitHub Stats" height="192px" />
   </a>
-  <a href="https://ghfind.com/u/ghost-him?ref=badge"><img src="https://ghfind.com/api/card/ghost-him?theme=light" alt="GitHub Roast" height="192px" /></a>
+  <a href="https://ghfind.com/u/ghost-him?ref=badge"><img src="https://ghfind.com/api/card/ghost-him?theme=dark" alt="GitHub Roast" height="192px" /></a>
 </p>
 
 ---
