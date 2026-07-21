@@ -127,13 +127,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-stats-extended.vercel.app/api?username=ghost-him&show_icons=true&theme=radical" alt="GitHub Stats" height="192px" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ghost-him&layout=compact&exclude_repo=blog,ZeroLaunch-website,SeaIceNet-Next,6.5840-Lab&theme=radical" alt="Top Langs" height="192px" />
-  </a>
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ghost-him&theme=radical" alt="GitHub Streak" />
-  </a>
+  <a href="https://ghfind.com/u/ghost-him?ref=badge"><img src="https://ghfind.com/api/card/ghost-him?theme=light" alt="GitHub Roast" height="192px" /></a>
 </p>
 
 ---

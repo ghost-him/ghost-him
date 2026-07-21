@@ -125,15 +125,9 @@ If you find my projects helpful or want to support my work, feel free to sponsor
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-seven-xi-93.vercel.app/api?username=ghost-him&show_icons=true&theme=radical" alt="GitHub Stats" height="192px" />
+    <img src="https://github-stats-extended.vercel.app/api?username=ghost-him&show_icons=true&theme=radical" alt="GitHub Stats" height="192px" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-seven-xi-93.vercel.app/api/top-langs/?username=ghost-him&layout=compact&exclude_repo=blog,ZeroLaunch-website,SeaIceNet-Next&theme=radical" alt="Top Langs" height="192px" />
-  </a>
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ghost-him&theme=radical" alt="GitHub Streak" />
-  </a>
+  <a href="https://ghfind.com/u/ghost-him?ref=badge"><img src="https://ghfind.com/api/card/ghost-him?theme=light" alt="GitHub Roast" height="192px" /></a>
 </p>
 
 ---
