@@ -69,11 +69,11 @@
 
 ## 📝 最新文章
 <!-- BLOG-POST-LIST:START -->
+ - 2026-09-11: [鹅厂实习体验卡到期](https://ghost-him.github.io/Thoughts/2026-09-11-internship-end/)
  - 2026-05-31: [虹曙！🍠！](https://ghost-him.github.io/Thoughts/2026-05-31-headphone/)
  - 2026-03-09: [找实习](https://ghost-him.github.io/Thoughts/2026-03-09-seeking-internships/)
  - 2026-02-17: [C++ 八股文查漏补缺](https://ghost-him.github.io/Study/2026-02-17-c++notes/)
- - 2026-02-15: [2025 年终总结](https://ghost-him.github.io/Blog/2026-02-15-2025-recap/)
- - 2026-02-13: [聊天](https://ghost-him.github.io/Thoughts/2026-02-13-chat/)<!-- BLOG-POST-LIST:END -->
+ - 2026-02-15: [2025 年终总结](https://ghost-him.github.io/Blog/2026-02-15-2025-recap/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
